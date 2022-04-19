@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/rkovalch/Documents/AIS/Scala/Lab1/target/scala-2.13/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rkovalch/Documents/AIS/Scala/Lab1/src/main/scala/HelloWorld.scala:4:14: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m	val spark = SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m	            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed Mar 28, 2022, 12:00:40 AM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
